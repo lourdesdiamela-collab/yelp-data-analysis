@@ -1,0 +1,10 @@
+# Excluir archivos innecesarios o pesados
+.ipynb_checkpoints
+__pycache__/
+*.csv
+*.xlsx
+*.json
+data/
+
+# Variables de entorno
+.env
