@@ -10,7 +10,7 @@
 
 ## 📌 Sobre el Proyecto
 
-Este proyecto (Módulo 1 de Data Science en Henry) se enfoca en los fundamentos de la **Ingeniería de Datos y el Análisis Exploratorio**. 
+Este proyecto se enfoca en los fundamentos de la **Ingeniería de Datos y el Análisis Exploratorio**. 
 
 El objetivo principal fue extraer datos desde la API de Yelp, realizar un proceso de limpieza (ETL), y posteriormente ejecutar un Análisis Exploratorio de Datos (EDA) para generar *insights* y recomendaciones de negocio.
 
